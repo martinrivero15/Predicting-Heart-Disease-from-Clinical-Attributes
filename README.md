@@ -129,7 +129,7 @@ Suggestions for future enhancements:
 ├── Uci-1.pdf              # PDF report
 ├── README.md              # Project summary (this file)
 └── data/
-    └── heart.csv          # Original UCI dataset
+    └── heart_disease_uci.csv          # Original UCI dataset
 ```
 
 ---
